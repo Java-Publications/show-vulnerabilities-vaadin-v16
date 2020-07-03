@@ -9,8 +9,10 @@ I used the following selection to create the source I used here:
 
 If you want to see how this is done, check out my Youtube channel.
 
-German Version : 
-English Version : 
+Youtube: [DE] - bit.ly/Youtube-Sven 
+
+Youtube: [EN] - bit.ly/Outdoor-Nerd
+
 
 If you have any questions, ping me via email, Twitter or LinkedIn.
 
