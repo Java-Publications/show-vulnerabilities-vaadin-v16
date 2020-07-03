@@ -1,3 +1,32 @@
+# Find the Vulnerabilities and show how to fix them
+In this repo, you will see the result of a security tuning of the default demo app
+that is provided by Vaadin for the version V16.0.0 (date 2020-07-03). 
+[https://vaadin.com/start/latest](https://vaadin.com/start/latest)
+Have in mind, that with every update, this picture will change. (in the good or bad direction, who knows ;-) )
+
+I used the following selection to create the source I used here:
+![./_doc/VaadinWizard.jpg](./_doc/VaadinWizard.jpg)
+
+If you want to see how this is done, check out my Youtube channel.
+
+German Version : 
+English Version : 
+
+If you have any questions, ping me via email, Twitter or LinkedIn.
+
+If you want to try this one by yourself, start a trial at [https://jfrog.com/platform/free-trial/](https://jfrog.com/platform/free-trial/)
+to get access to Artifactory and Xray. 
+Check out my Youtube channel to get info, how to ramp up a maven and npm repo.
+
+
+Have fun, enjoy to scare your manager ;-)
+Cheers Sven
+
+btw: If you want to have some other framework checked ...  just let me know. ;-)
+
+
+------------------------------- orig Readme -------------------------------
+ 
 # Skeleton Starter for Vaadin
 
 This project can be used as a starting point to create your own Vaadin application.
