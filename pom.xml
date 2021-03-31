@@ -178,7 +178,7 @@
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>28.2-jre</version>
+      <version>29.0-jre</version>
     </dependency>
     <!-- Added to provide logging output as Vaadin uses -->
     <!-- the unbound SLF4J no-operation (NOP) logger implementation -->
